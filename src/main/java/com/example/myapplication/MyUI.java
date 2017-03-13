@@ -27,7 +27,7 @@ public class MyUI extends UI {
         final VerticalLayout layout = new VerticalLayout();
         
         final TextField name = new TextField();
-        name.setCaption("Type yasdfour name here:");
+        name.setCaption("Type afour name here:");
 
         Button button = new Button("Click Me");
         button.addClickListener( e -> {
